@@ -72,7 +72,7 @@ map.on('locationfound', function(e){
 
 	myLocation.setGeoJSON({
     	type: 'Feature',
-      	geometry; {
+      	geometry: {
 			type: 'Point',
       		coordinates: [e.latlng.lng, e.latlng.lat]
     	},
@@ -82,7 +82,6 @@ map.on('locationfound', function(e){
             "marker-symbol": 'star'
         }
     })
-
 })
 
 map.locate({ setView: true });
