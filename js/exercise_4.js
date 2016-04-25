@@ -77,7 +77,7 @@ map.on('locationfound', function(e){
       		coordinates: [e.latlng.lng, e.latlng.lat]
     	},
         properties: {
-        	"titles": 'Here I am!',
+        	"title": 'Here I am!',
             "marker-color": '#0000FF',
             "marker-symbol": 'star'
         }
