@@ -8,7 +8,7 @@ Curious what it looks like?  Check it out here:
 
 [http://elmabish.github.io/web_mapping_workshop/](http://elmabish.github.io/web_mapping_workshop/)
 
-Now that's one ugly map isn't it!  Well, you're going to do something about that.
+Now that's one ugly map isn't it!  Well, you're going to do something about that. 
 
 You don't have edit rights on my version of the map, so you are going to make a copy of this entire repository under your account, this is called _forking_ in the GitHub world.
 
